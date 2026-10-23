@@ -24,7 +24,7 @@ irreversible.
 My MAE research grew alongside my Niagara University studies. I particularly
 acknowledge **Dr. Taylan Sen's computing influence** and **Dr. Barnwell's
 philosophical influence**. The archived research package names Barnwell as
-faculty advisor and Sen, Dr. Glenn Pap and Dr. Joseph Little as sponsors.
+faculty advisor and Sen, Dr. Glenn Papp and Dr. Joseph Little as sponsors.
 
 The [research index and timeline](https://github.com/s0976307/eagles-classes/blob/main/RESEARCH-INDEX.md)
 connects coursework, Consent and Concern, and later MAE design decisions.
